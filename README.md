@@ -1,5 +1,5 @@
 # AirplaneSeating
-Airplane seating - Algorithm to allocate seating using one iteration of all matrixes
+Airplane seating - Algorithm to allocate seating using one iteration/loop of all matrixes
 # Rules for seating
 • Always seat passengers starting from the front row to back,
 starting from the left to the right
@@ -10,7 +10,7 @@ seats (any order in center seats)
 [2,3], [3,4] ]
 • Number of passengers waiting in queue.
 • Input will be provided as input file
-# Excute the Java class with input file using below comand with the input file created
+# Execute the Java class with input file using below comand with the input file created
 • javac AirplaneSeatAllocation.java
 • java  AirplaneSeatAllocation sample.txt
 # Output
